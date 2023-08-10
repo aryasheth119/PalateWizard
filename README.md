@@ -1,4 +1,5 @@
-FlavorFusion
+# FlavorFusion
+
 Project Overview
 Created a tool that recommends recipes based on ingredients inputted to help eat better food.
 The dataset is publicly available on Kaggle under the name 'Epicurious - Recipes with Rating and Nutrition' It contains over 20 thousand recipes listed by recipe rating, nutritional information and assigned category Link to download the data: https://www.kaggle.com/datasets/hugodarwood/epirecipes
